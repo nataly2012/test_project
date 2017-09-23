@@ -1,2 +1,2 @@
 #My first test
-merge conflict1
+merge conflict2
